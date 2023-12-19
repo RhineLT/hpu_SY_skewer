@@ -1,0 +1,6 @@
+names:
+- skewer
+nc: 1
+test: datasets/test.txt
+train: datasets/train.txt
+val: datasets/val.txt
